@@ -1,4 +1,7 @@
- **👋 Hi, I’m Ghullam Abbas**
+ **👋 Hi, I’m Ghullam Abbas** 
+**Swift | SwiftUI | Objective C | Xcode | Core Data**
+
+- I'm Senior IOS Developer with 7 years of experience in IOS application development.
 - 👀 I’m interested in IOS application Development
 - 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate on Learning stuff.
