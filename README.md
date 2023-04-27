@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **SwiftUI**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ghullam-abbas-b7548a89/](https://www.linkedin.com/in/ghullam-abbas-b7548a89/)
+- 👨‍💻 All of my projects are available at (https://ghullamabbas.mystrikingly.com/)
 
 - 📝 I regularly write articles on [https://medium.com/@abbasjoyia99](https://medium.com/@abbasjoyia99)
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **abbasjoyia99@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ghullam-abbas-b7548a89/](https://www.linkedin.com/in/ghullam-abbas-b7548a89/)
+- 📄 Know about my experiences (https://ghullamabbas.mystrikingly.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
