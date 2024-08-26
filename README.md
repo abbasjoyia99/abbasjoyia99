@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on [Walee](https://apps.apple.com/pk/app/walee/id1488337668?platform=iphone)
 
-- 🌱 I’m currently learning **SwiftUI**
-
 - 👨‍💻 All of my projects are available at (https://ghullamabbas.mystrikingly.com/)
 
 - 📝 I regularly write articles on [https://medium.com/@abbasjoyia99](https://medium.com/@abbasjoyia99)
